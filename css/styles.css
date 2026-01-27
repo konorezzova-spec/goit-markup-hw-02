@@ -28,6 +28,16 @@ ul {
     font-size: 18px;
     line-height: 1.16;
     letter-spacing: 3%;
+    color: #2E2F42;
+}
+
+.footer .logo {
+    color: #F4F4FD;
+}
+
+.footer .logo:hover,
+.footer .logo:focus {
+    color: #404BBF;
 }
 
 a:hover,
