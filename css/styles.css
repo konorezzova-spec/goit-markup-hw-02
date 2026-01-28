@@ -112,6 +112,9 @@ p {
 
 .team {
     background-color: #F4F4FD;
+}
+
+.team h2 {
     text-align: center;
 }
 
