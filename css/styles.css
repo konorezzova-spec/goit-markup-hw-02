@@ -28,9 +28,20 @@ ul {
     letter-spacing: 0.03em;
 }
 
+.contacts-link {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2E2F42
+}
+
 .contacts {
     color: #434455;
     font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .footer .logo {
@@ -114,7 +125,7 @@ p {
 
 .footer {
     background-color: #2E2F42;
-    color: #ffffff;
+    color: #F4F4FD;
 }
 
 .footer p {
