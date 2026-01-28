@@ -23,13 +23,14 @@ ul {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.3125;
+    line-height: 1.1667;
     color: #2E2F42;
     letter-spacing: 0.03em;
 }
 
 .contacts {
     color: #434455;
+    font-weight: 400;
 }
 
 .footer .logo {
@@ -67,7 +68,7 @@ button:focus {
     letter-spacing: 0.04em;
 }
 
-.header {
+.chief-header {
     background-color: #2E2F42;
 }
 
@@ -84,12 +85,14 @@ h2 {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 
 h3 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -105,10 +108,15 @@ p {
     background-color: #fff;
 }
 
+.portfolio h2 {
+    text-align: center;
+}
+
 .footer {
     background-color: #2E2F42;
+    color: #ffffff;
 }
 
 .footer p {
-    color: #FFFFFF;
+    color: inherit;
 }
