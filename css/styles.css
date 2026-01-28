@@ -28,20 +28,20 @@ ul {
     letter-spacing: 0.03em;
 }
 
-.contacts-link {
+.contacts-link,
+.contacts {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+}
+
+.contacts-link {
     color: #2E2F42
 }
 
 .contacts {
     color: #434455;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
 }
 
 .footer .logo {
