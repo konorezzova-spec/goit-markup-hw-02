@@ -30,17 +30,18 @@ ul {
 
 .contacts-link,
 .contacts {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
 }
 
 .contacts-link {
+    font-weight: 500;
     color: #2E2F42
 }
 
 .contacts {
+    font-weight:400;
     color: #434455;
 }
 
@@ -114,7 +115,7 @@ p {
     background-color: #F4F4FD;
 }
 
-.team h2 {
+.team h2, .team p, .team h3 {
     text-align: center;
 }
 
